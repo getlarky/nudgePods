@@ -24,5 +24,5 @@ Pod::Spec.new do |s|
   # s.frameworks = 'UIKit', 'MapKit'
   s.dependency 'Analytics', '4.1.2'
   s.dependency 'EnvironmentUtils', '1.0.0-rc2'
-  s.dependency 'KeyValueStore', '1.0.0-rc2'
+  s.dependency 'KeyValueStore', '1.0.0-rc3'
 end
