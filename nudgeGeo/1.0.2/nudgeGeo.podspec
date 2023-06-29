@@ -23,7 +23,7 @@ Pod::Spec.new do |s|
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => '1 Custom', :text => "<<-LICENSE Copyright (c) 2021, Larky, Inc. Please contact Larky (support@larky.com) for licensing details. LICENSE" }
   s.author           = { 'connorlarky' => 'connor@larky.com' }
-  s.source           = { :http => 'https://github.com/getlarky/nudgeGeo-specs/releases/download/1.0.2/nudgeGeo.zip'}
+  s.source           = { :http => 'https://github.com/getlarky/nudgePods/releases/download/nudgeGeo-1.0.2/nudgeGeo.zip'}
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '11.0'
