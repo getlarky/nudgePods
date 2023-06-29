@@ -24,7 +24,7 @@ Pod::Spec.new do |s|
   # s.platform     = :ios
   # s.platform     = :ios, "5.0"
 
-  s.source       = { :http => 'https://github.com/getlarky/nudgeBase-specs/releases/download/1.2.0/nudgeBase.zip' }
+  s.source       = { :http => 'https://github.com/getlarky/nudgePods/releases/download/nudgeBase-1.2.0/nudgeBase.zip' }
   
   s.ios.deployment_target = '11.0'
   s.swift_version = '5.0'
