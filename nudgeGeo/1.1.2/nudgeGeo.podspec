@@ -40,6 +40,6 @@ Pod::Spec.new do |s|
   # s.dependency 'AFNetworking', '~> 2.3'
   # s.dependency 'FirebaseMessaging', '9.3.0'
   # s.dependency 'Analytics', '4.1.2'
-  s.dependency 'nudgeBase', '1.2.1'
+  s.dependency 'nudgeBase', '1.2.2'
 end
 
