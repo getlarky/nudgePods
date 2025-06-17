@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
   s.author           = { 'connorlarky' => 'connor@larky.com' }
   s.source           = { :http => 'https://github.com/getlarky/nudgePods/releases/download/nudgeBase-1.2.3/nudgeBase.zip'}
 
-  s.ios.deployment_target = '12.0'
+  s.ios.deployment_target = '13.0'
   s.swift_version = '5.0'
 
   s.source_files = 'nudgeBase/Sources/EnvironmentUtils/*.{swift}'
